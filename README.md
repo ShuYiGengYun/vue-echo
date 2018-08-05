@@ -1,7 +1,17 @@
 # vueapp
 
-> A Vue.js project
+> A Vue.js project  
 
+> 仿echo的练手项目
+#### 使用到的技术
+1. 数据使用mock.js
+2. 库
+   1. mint-ui
+   2. muse-ui
+3. Vue
+    1. axios 请求数据
+    2. vuex
+    3. vue-router   
 ## Build Setup
 
 ``` bash
