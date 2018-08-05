@@ -1,0 +1,11 @@
+export const SET_TITLE = 'SET_TITLE'
+export const SET_MUSIC = 'SET_MUSIC'
+export const SET_LISTS = 'SET_LISTS' //  存放音乐列表数据
+export const SET_MUSIC_ELE = 'SET_MUSIC_ELE'
+export const SET_MUSIC_DATA = 'SET_MUSIC_DATA'
+export const SET_MUSIC_PLAY = 'SET_MUSIC_PLAY'
+export const SET_MUSIC_DURATION = 'SET_MUSIC_DURATION'
+export const SET_MUSIC_CURRENTTIME = 'SET_MUSIC_CURRENTTIME'
+export const SET_PLAYMODE = 'SET_PLAYMODE'
+export const SET_PLAYLISTS = 'SET_PLAYLISTS' //  设置播放列表
+export const SET_PLAYLISTS_BYID = 'SET_PLAYLISTS_BYID' //  设置单曲到播放列表
